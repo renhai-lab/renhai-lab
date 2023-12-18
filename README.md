@@ -26,5 +26,5 @@ Python's versatility and ease of learning make it my primary tool for programmin
 - [Basic Deep Learning Course with Pytorch](https://blog.renhai-lab.tech/categories/deep-learning) - A foundational course unveiling the mysteries of deep learning.
 - [Paper Replication: "Understanding Architecture Age and Style Through Deep Learning" (Updating)](https://blog.renhai-lab.tech/categories/Paper_Replication) - Sharing my insights and challenges encountered during the replication of this paper.
 - [Cloud Servers, Smart Homes, Docker-related (Updating)](https://blog.renhai-lab.tech/categories/linux) - Exploring the intersection of cloud computing and smart homes, along with practical Docker tips.
- 
-![logo-black.jpg](assets%2Flogo-black.jpg)
+
+<img src="./assets/logo-black.jpg" alt="logo-black.jpg" style="zoom:50%;" />
