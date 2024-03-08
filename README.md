@@ -27,4 +27,6 @@ Python's versatility and ease of learning make it my primary tool for programmin
 - [Paper Replication: "Understanding Architecture Age and Style Through Deep Learning" (Updating)](https://blog.renhai-lab.tech/categories/Paper_Replication) - Sharing my insights and challenges encountered during the replication of this paper.
 - [Cloud Servers, Smart Homes, Docker-related (Updating)](https://blog.renhai-lab.tech/categories/linux) - Exploring the intersection of cloud computing and smart homes, along with practical Docker tips.
 
+"If you need technical guidance on Python, you can click [here](https://www.zhihu.com/consult/people/825989162623721472) to consult on Zhihu."
+
 <img src="./assets/logo-black.jpg" alt="logo-black.jpg" style="zoom:50%;" />
